@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8 ">
+        <meta name="viewport " content="width=device-width, initial-scale=1 ">
+        <link rel="stylesheet " href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css ">
+        <link rel="stylesheet " type="text/css " href="style.css ">
+        <link rel=”shortcut icon” href=”favicon.ico”>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js "></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js "></script>
+    </head>
+
+    <body>
+        <div class="row">
+            <div class="container">
+                <ul class="nav nav-tabs" role="tablist">
+
+                    <li class="active"><a href="http://www.editey.com/preview/0BzmStV5e8vm5eFh6VVZzSUhKczg/index.html?email=lexspek@gmail.com">home</a>
+                    </li>
+
+                    <li class="dropdown">
+                         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+      Info <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://www.editey.com/preview/0BzmStV5e8vm5eFh6VVZzSUhKczg/SITE%20inhoud%20drummen?email=lexspek@gmail.com">Inhoud drummen</a>
+                            </li>
+                            <li><a href="http://www.editey.com/preview/0BzmStV5e8vm5eFh6VVZzSUhKczg/SITE%20over%20mij?email=lexspek@gmail.com">Over mij</a>
+                            </li>
+                            <li><a href="http://www.editey.com/preview/0BzmStV5e8vm5eFh6VVZzSUhKczg/SITE%20tarieven?email=lexspek@gmail.com">Tarieven</a>
+                            </li>
+                            <li><a href="http://www.editey.com/preview/0BzmStV5e8vm5eFh6VVZzSUhKczg/SITE%20bekende%20drummers?email=lexspek@gmail.com">Bekende drummers</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="tarieven">
+            <div class="container">
+                 <h1>Tarieven</h1>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td width="70%" align="left">
+                             <h4>De tarieven van de drumlessen zijn vijfentwintig euro per uur. Dit is wel met mogelijkheid tot andere percussie-instrumenten, zoals xylofoon, vibrafoon, pauken en bonga, en met eigen keuze tot muziek. Je zal een uur les per week krijgen, of een uur in een keer, of een half uur in twee keer.</h4>
+                             <h4>Adres: <a href="https://www.google.nl/maps/place/''s-Hertogenbosch'/@51.7148667,5.2831591,13z/data=!3m1!4b1!4m2!3m1!1s0x47c6ee37ad3edd37:0x400de5a8d1e7c50?hl=nl">Meubelstraat 23, 5355 AB, Den Bosch</a></h4>
+                             <h4>Telefoonnummmer: 06-31489207</h4>
+                        </td>
+                        <td align="right">
+                            <img src="http://www.academiewuustwezel.be/sites/default/files/Bestanden/vibrafoon.png" height="350" width="450">
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+        </div>
+    </body>
+
+</html>
