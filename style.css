@@ -1,0 +1,38 @@
+.jumbotron h1 {
+    font-size: 85px;
+}
+
+.row {
+    font-size: 15px;
+}
+
+body {
+    font-family:"Courier New", Courier, monospace;
+    margin:30px;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+.row li {
+    display:inline;
+}
+
+.jumbotron {
+    background-color:white;
+}
+
+.dropdown-menu {
+    font-size:15px;
+}
+
+html, body {
+    height:100%;
+}
+
+.webtitel { 
+    text-transform:none;
+}
+
+.ervaringtitel {
+    text-decoration:underline overline;
+}
