@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel=”shortcut icon” href=”/favicon.ico/” type="image/ico">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    </head>
+
+    <body>
+
+        <div class="row">
+            <div class="container">
+                <ul class="nav nav-tabs" role="tablist">
+
+                    <li class="active"><a href="http://www.editey.com/preview/0BzmStV5e8vm5eFh6VVZzSUhKczg/index.html?email=lexspek@gmail.com">home</a>
+                    </li>
+
+                    <li class="dropdown">
+                         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+      Info <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://www.editey.com/preview/0BzmStV5e8vm5eFh6VVZzSUhKczg/SITE%20inhoud%20drummen?email=lexspek@gmail.com">Inhoud drummen</a>
+                            </li>
+                            <li><a href="http://www.editey.com/preview/0BzmStV5e8vm5eFh6VVZzSUhKczg/SITE%20over%20mij?email=lexspek@gmail.com">Over mij</a>
+                            </li>
+                            <li><a href="http://www.editey.com/preview/0BzmStV5e8vm5eFh6VVZzSUhKczg/SITE%20tarieven?email=lexspek@gmail.com">Tarieven</a>
+                            </li>
+                            <li><a href="http://www.editey.com/preview/0BzmStV5e8vm5eFh6VVZzSUhKczg/SITE%20bekende%20drummers?email=lexspek@gmail.com">Bekende drummers</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="titel">
+            <div class="container">
+                 <h1>Inhoud drummen</h1>
+            </div>
+        </div>
+
+        <div class="druminhoud">
+            <div class="container">
+                 <h2>wat houdt drummen in?</h2>
+                 <h4>Drummen, is een welbekend begrip, maar wat houdt het nou in? De definitie van drummen is het muziek maken met een drumstel. Om meer specifiek te zijn, met twee drumstokken op verschillende trommels en bekken slaan, in combinatie met een grote trommel bediend door je rechtervoet (tenzij je linkshandig bent) en de hi-hat door je linkervoet.</h4>
+                 <h4>Meeste mensen die op drummen willen, hebben de mentaliteit dat je verder niks van muziek hoeft te weten om te kunnen drummen. Dit is echter een foute mentaliteit, aangezien je wel degelijk noten moet kunnen lezen, en ritmes kunnen herkennen. Ook, wanneer je een tijd drumt en al redelijk wat liedjes kan naspelen, ga je een richting in muzieksmaak moeten kiezen. Hiervoor is het handig dat je weet wat voor muzieksmaak jij nou leuk vind om te drummen en te luisteren.</h4>
+                 <h4>Om te beginnen met drummen zit geen leeftijdsgrens. Iedereen die wilt beginnen met drummen kan dat zo doen, als hij/zij wilt. Een van de leuke dingen van drummen is dat je altijd nog meer kan leren, Al drum ik al meer als twintig jaar, nog steeds leer ik meer en meer over het drummen en de technieken ervan.</h4>
+                <center>
+                    <img src="https://sangomapercussie.files.wordpress.com/2010/01/dsc_6568-cs-3-crop.jpg" width="500" height="300">
+                </center>
+            
+            </div>
+        </div>
+        
+        
+    </body>
+
+</html>
