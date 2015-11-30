@@ -1,2 +1,4 @@
 # lexspek.github.io
-Drumleraar Lex site
+Drumleraar Lex site 
+
+Informatica A5
